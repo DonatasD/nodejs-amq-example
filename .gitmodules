@@ -1,3 +1,6 @@
 [submodule "nodejs-amq-publisher"]
 	path = nodejs-amq-publisher
 	url = git@github.com:DonatasD/nodejs-amq-publisher.git
+[submodule "nodejs-amq-consumer"]
+	path = nodejs-amq-consumer
+	url = https://github.com/DonatasD/nodejs-amq-consumer
